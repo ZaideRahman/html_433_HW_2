@@ -1,0 +1,10 @@
+h3{
+	font-size: 50px;color: blue; background: green; border: 5px dashed red; 
+}
+.font{
+	font-size: 25px;background: blue;
+
+}
+#color{
+	color: skyblue;border: 5px solid yellow;
+}
